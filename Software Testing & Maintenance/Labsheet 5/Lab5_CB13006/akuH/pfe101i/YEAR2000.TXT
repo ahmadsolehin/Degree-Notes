@@ -1,0 +1,24 @@
+                        PFE And The Year 2000
+                        ---------------------
+
+No explicit tests have been done on version 1.01.000 of PFE to see if it is
+Year 2000 compliant, but to the best of my belief no problems will arise.
+
+PFE does not offer date-manipulation features to the user in any form, so there
+are no issues relating to how dates are typed or presented.
+
+Internally, PFE's only use of dates and times is in determining whether files
+that are being edited have been altered on disk by other applications. It does
+this by using the Run Time Library stat() function to obtain the file's "last-
+written" time as a binary value, and comparing with a value obtained when the
+file was opened. Since the binary patterns are compared without interpretation,
+no problems can arise.
+
+PFE is statically-linked with the Run Time Libraries supplied with Microsoft
+Visual C++ 1.52 (16-Bit Edition) and with Microsoft Visual C++ 6.0 SP2 (32-Bit
+Edition) but does not explicitly use any date-handling routines they supply.
+
+January 20 1999
+
+
+

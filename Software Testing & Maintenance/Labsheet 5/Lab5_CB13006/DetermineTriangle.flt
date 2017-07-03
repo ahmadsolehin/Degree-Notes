@@ -1,0 +1,45 @@
+@FaultFile
+/////////////////////////////////////
+// Class information
+////////////////////////////////////
+classname : DetermineTriangle
+methodname : triangle
+specifier: public
+paramtypes : 3
+returntype: void
+////////////////////////////////////
+// Parameter types
+////////////////////////////////////
+parameter : partypes[0]=Integer.TYPE
+parameter : partypes[1]=Integer.TYPE
+parameter : partypes[2]=Integer.TYPE
+////////////////////////////////////
+// Test Case Impossible
+////////////////////////////////////
+arglist : arglist[0]=new Integer(5000)
+arglist : arglist[1]=new Integer(25)
+arglist : arglist[2]=new Integer(2)
+////////////////////////////////////
+// Test Case Eq
+////////////////////////////////////
+arglist : arglist[0]=new Integer(8)
+arglist : arglist[1]=new Integer(8)
+arglist : arglist[2]=new Integer(8)
+////////////////////////////////////
+// Test Case Isoceles
+////////////////////////////////////
+arglist : arglist[0]=new Integer(2)
+arglist : arglist[1]=new Integer(2)
+arglist : arglist[2]=new Integer(3)
+////////////////////////////////////
+// Test Case Right
+////////////////////////////////////
+arglist : arglist[0]=new Integer(3)
+arglist : arglist[1]=new Integer(4)
+arglist : arglist[2]=new Integer(5)
+////////////////////////////////////
+// Test Case Any
+////////////////////////////////////
+arglist : arglist[0]=new Integer(7)
+arglist : arglist[1]=new Integer(8)
+arglist : arglist[2]=new Integer(9)
