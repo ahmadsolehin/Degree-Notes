@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.topic" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<topic:TopicQuery xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:topic="http://www.ibm.com/xtools/6.0.0/Topic" xmi:id="_oon64O5XEd293_ER3wVy2A" topicId="com.ibm.xtools.mmi.ui.RelatedVisualizerElements:J2SE.Presets.Supertypes" name="topicdiagram">
+  <eAnnotations xmi:id="_oon64e5XEd293_ER3wVy2A" source="com.ibm.xtools.topic.query_attributes">
+    <details xmi:id="_oon64u5XEd293_ER3wVy2A" key="consumerToSelection" value="false"/>
+    <details xmi:id="_oon64-5XEd293_ER3wVy2A" key="selectionToSupplier" value="true"/>
+    <details xmi:id="_oon65O5XEd293_ER3wVy2A" key="expandIndefinitely" value="false"/>
+    <details xmi:id="_oon65e5XEd293_ER3wVy2A" key="expandLevels" value="1"/>
+    <details xmi:id="_oon65u5XEd293_ER3wVy2A" key="layoutType" value="DEFAULT"/>
+    <details xmi:id="_oon65-5XEd293_ER3wVy2A" key="selections" value="~Java~Extends (Generalization)~Uses (Dependency)~Implements (Realization)~References (Association)~Collection Type References (Association)~Declares (Owned Element)~Trace (Abstraction)"/>
+  </eAnnotations>
+  <context href="mmi:///#jsrctype%5Ename=Demo%5Bjcu%5Ename=Demo.java%5Bjpack%5Ename=com.ibm.rlss.ersa.basic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ACMEJavaProject%5D%5D%5D%5D$uml.Class"/>
+</topic:TopicQuery>

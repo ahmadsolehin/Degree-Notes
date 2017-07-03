@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:topic="http://www.ibm.com/xtools/6.0.0/Topic" xmlns:uml="http://www.eclipse.org/uml2/2.1.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.2/Umlnotation">
+  <ecore:EAnnotation xmi:id="_Kn218O5XEd293_ER3wVy2A" source="SequenceDiagramAtomicSetStrategy"/>
+  <notation:Diagram xmi:id="_Kn218e5XEd293_ER3wVy2A" type="Freeform" name="GENERATED FROM QUERY">
+    <eAnnotations xmi:id="_Kn218u5XEd293_ER3wVy2A" source="uml2.TopicService.QueryReference">
+      <references xmi:type="topic:TopicQuery" href="browse:///_TyMUAO5WEd293_ER3wVy2A.temporaryTopicQueryStore#_VRs-8O5WEd293_ER3wVy2A?%3CQuery%3E?"/>
+    </eAnnotations>
+    <children xmi:id="_Kn218-5XEd293_ER3wVy2A">
+      <children xmi:id="_Kn219O5XEd293_ER3wVy2A" type="ImageCompartment">
+        <layoutConstraint xmi:type="notation:Size" xmi:id="_Kn219e5XEd293_ER3wVy2A" width="1320" height="1320"/>
+      </children>
+      <children xmi:id="_Kn219u5XEd293_ER3wVy2A" type="Stereotype"/>
+      <children xmi:id="_Kn219-5XEd293_ER3wVy2A" type="Name"/>
+      <children xmi:id="_Kn21-O5XEd293_ER3wVy2A" type="Parent"/>
+      <children xmi:id="_Kn21-e5XEd293_ER3wVy2A" visible="false" type="ANNOTATION_COMPARTMENT">
+        <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Kn21-u5XEd293_ER3wVy2A"/>
+      </children>
+      <children xmi:id="_Kn21--5XEd293_ER3wVy2A" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+        <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Kn21_O5XEd293_ER3wVy2A"/>
+      </children>
+      <children xmi:id="_Kn21_e5XEd293_ER3wVy2A" type="ANNOTATED_OPERATION_COMPARTMENT">
+        <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Kn21_u5XEd293_ER3wVy2A"/>
+      </children>
+      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_Kn21_-5XEd293_ER3wVy2A" showStereotype="Label"/>
+      <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Demo%5Bjcu%5Ename=Demo.java%5Bjpack%5Ename=com.ibm.rlss.ersa.basic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ACMEJavaProject%5D%5D%5D%5D$uml.Class"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kn22AO5XEd293_ER3wVy2A" x="4438" y="4755"/>
+    </children>
+    <children xmi:id="_Kn22Ae5XEd293_ER3wVy2A">
+      <children xmi:id="_Kn22Au5XEd293_ER3wVy2A" type="ImageCompartment">
+        <layoutConstraint xmi:type="notation:Size" xmi:id="_Kn22A-5XEd293_ER3wVy2A" width="530" height="530"/>
+      </children>
+      <children xmi:id="_Kn22BO5XEd293_ER3wVy2A" type="Stereotype"/>
+      <children xmi:id="_Kn22Be5XEd293_ER3wVy2A" type="Kind"/>
+      <children xmi:id="_Kn22Bu5XEd293_ER3wVy2A" type="Name"/>
+      <children xmi:id="_Kn22B-5XEd293_ER3wVy2A" type="Parent"/>
+      <children xmi:id="_Kn22CO5XEd293_ER3wVy2A" visible="false" type="AttributeCompartment">
+        <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Kn22Ce5XEd293_ER3wVy2A"/>
+      </children>
+      <children xmi:id="_Kn22Cu5XEd293_ER3wVy2A" visible="false" type="OperationCompartment">
+        <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Kn22C-5XEd293_ER3wVy2A"/>
+      </children>
+      <children xmi:id="_Kn22DO5XEd293_ER3wVy2A" visible="false" type="SignalCompartment">
+        <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Kn22De5XEd293_ER3wVy2A"/>
+      </children>
+      <styles xmi:type="umlnotation:UMLClassifierStyle" xmi:id="_Kn22Du5XEd293_ER3wVy2A" showStereotype="Label" useClassifierShape="true"/>
+      <element xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=Echo%5Bjcu%5Ename=Echo.java%5Bjpack%5Ename=com.ibm.rlss.ersa.basic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ACMEJavaProject%5D%5D%5D%5D$uml.Interface"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kn22D-5XEd293_ER3wVy2A" x="9510" y="5706"/>
+    </children>
+    <children xmi:id="_Kn22EO5XEd293_ER3wVy2A">
+      <children xmi:id="_Kn22Ee5XEd293_ER3wVy2A" type="ImageCompartment">
+        <layoutConstraint xmi:type="notation:Size" xmi:id="_Kn22Eu5XEd293_ER3wVy2A" width="1320" height="1320"/>
+      </children>
+      <children xmi:id="_Kn22E-5XEd293_ER3wVy2A" type="Stereotype"/>
+      <children xmi:id="_Kn22FO5XEd293_ER3wVy2A" type="Name"/>
+      <children xmi:id="_Kn22Fe5XEd293_ER3wVy2A" type="Parent"/>
+      <children xmi:id="_Kn22Fu5XEd293_ER3wVy2A" visible="false" type="PackageContents">
+        <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_Kn22F-5XEd293_ER3wVy2A" canonical="false" collapsed="true"/>
+      </children>
+      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_Kn22GO5XEd293_ER3wVy2A" showStereotype="Label"/>
+      <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=com.ibm.rlss.ersa.basic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ACMEJavaProject%5D%5D$uml.Package"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kn22Ge5XEd293_ER3wVy2A" x="1268" y="9510"/>
+    </children>
+    <children xmi:id="_Kn22Gu5XEd293_ER3wVy2A">
+      <children xmi:id="_Kn22G-5XEd293_ER3wVy2A" type="ImageCompartment">
+        <layoutConstraint xmi:type="notation:Size" xmi:id="_Kn22HO5XEd293_ER3wVy2A" width="1320" height="1320"/>
+      </children>
+      <children xmi:id="_Kn22He5XEd293_ER3wVy2A" type="Stereotype"/>
+      <children xmi:id="_Kn22Hu5XEd293_ER3wVy2A" type="Name"/>
+      <children xmi:id="_Kn22H-5XEd293_ER3wVy2A" type="Parent"/>
+      <children xmi:id="_Kn22IO5XEd293_ER3wVy2A" visible="false" type="ANNOTATION_COMPARTMENT">
+        <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Kn22Ie5XEd293_ER3wVy2A"/>
+      </children>
+      <children xmi:id="_Kn22Iu5XEd293_ER3wVy2A" visible="false" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+        <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Kn22I-5XEd293_ER3wVy2A"/>
+      </children>
+      <children xmi:id="_Kn22JO5XEd293_ER3wVy2A" visible="false" type="ANNOTATED_OPERATION_COMPARTMENT">
+        <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Kn22Je5XEd293_ER3wVy2A"/>
+      </children>
+      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_Kn22Ju5XEd293_ER3wVy2A" showStereotype="Label"/>
+      <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Base%5Bjcu%5Ename=Base.java%5Bjpack%5Ename=com.ibm.rlss.ersa.basic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ACMEJavaProject%5D%5D%5D%5D$uml.Class"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kn22J-5XEd293_ER3wVy2A" x="2536" y="1268"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_Kn22KO5XEd293_ER3wVy2A"/>
+    <element xsi:nil="true"/>
+    <edges xmi:id="_Kn22Ke5XEd293_ER3wVy2A" source="_Kn218-5XEd293_ER3wVy2A" target="_Kn22Gu5XEd293_ER3wVy2A">
+      <children xmi:id="_Kn22Ku5XEd293_ER3wVy2A" type="NameLabel">
+        <children xmi:id="_Kn22K-5XEd293_ER3wVy2A" type="Stereotype"/>
+        <children xmi:id="_Kn22LO5XEd293_ER3wVy2A" type="Name"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kn22Le5XEd293_ER3wVy2A" y="-186"/>
+      </children>
+      <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_Kn22Lu5XEd293_ER3wVy2A" lineWidth="1" showStereotype="Text"/>
+      <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Demo%5Bjcu%5Ename=Demo.java%5Bjpack%5Ename=com.ibm.rlss.ersa.basic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ACMEJavaProject%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Base%5Bjcu%5Ename=Base.java%5Bjpack%5Ename=com.ibm.rlss.ersa.basic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ACMEJavaProject%5D%5D%5D%5D%5D$uml.Generalization"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Kn22L-5XEd293_ER3wVy2A" points="[-4256, -4098, -11210, -8869]$[-4156, -3998, -11110, -8769]"/>
+    </edges>
+    <edges xmi:id="_Kn22MO5XEd293_ER3wVy2A" source="_Kn218-5XEd293_ER3wVy2A" target="_Kn22Ae5XEd293_ER3wVy2A">
+      <children xmi:id="_Kn22Me5XEd293_ER3wVy2A" type="NameLabel">
+        <children xmi:id="_Kn22Mu5XEd293_ER3wVy2A" type="Stereotype"/>
+        <children xmi:id="_Kn22M-5XEd293_ER3wVy2A" type="Name"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kn22NO5XEd293_ER3wVy2A" y="-186"/>
+      </children>
+      <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_Kn22Ne5XEd293_ER3wVy2A" lineWidth="1" showStereotype="Text"/>
+      <element xmi:type="uml:InterfaceRealization" href="mmi:///#jimpl%5Bjsrctype%5Ename=Demo%5Bjcu%5Ename=Demo.java%5Bjpack%5Ename=com.ibm.rlss.ersa.basic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ACMEJavaProject%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Echo%5Bjcu%5Ename=Echo.java%5Bjpack%5Ename=com.ibm.rlss.ersa.basic%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=ACMEJavaProject%5D%5D%5D%5D%5D$uml.InterfaceRealization"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Kn22Nu5XEd293_ER3wVy2A" points="[-4256, -4098, -11520, -8849]$[-4156, -3998, -11420, -8749]"/>
+    </edges>
+    <edges xmi:id="_Kn22N-5XEd293_ER3wVy2A" type="OwnedElement" source="_Kn22EO5XEd293_ER3wVy2A" target="_Kn218-5XEd293_ER3wVy2A">
+      <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_Kn22OO5XEd293_ER3wVy2A" lineWidth="1" showStereotype="Text"/>
+      <element xsi:nil="true"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Kn22Oe5XEd293_ER3wVy2A" points="[-12311, -9044, -4256, -4098]$[-12211, -8944, -4156, -3998]"/>
+    </edges>
+  </notation:Diagram>
+</xmi:XMI>
