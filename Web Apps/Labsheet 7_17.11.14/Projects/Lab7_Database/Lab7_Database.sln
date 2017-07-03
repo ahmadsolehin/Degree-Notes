@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Lab7_Database", "..\..\WebSites\Lab7_Database\", "{E4C4AC1D-D5C6-4926-981E-B3824324638D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/Lab7_Database"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\Lab7_Database\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Lab7_Database\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Lab7_Database"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\Lab7_Database\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Lab7_Database\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1614"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4C4AC1D-D5C6-4926-981E-B3824324638D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C4AC1D-D5C6-4926-981E-B3824324638D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

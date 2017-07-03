@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<products>
+
+  <product>
+    <ID>1</ID>
+    <title>Exora</title>
+    <price>RM 35000</price>
+    <imgname>exora</imgname>
+  </product>
+
+  <product>
+    <ID>2</ID>
+    <title>Gen-2</title>
+    <price>RM 66000</price>
+    <imgname>gen-2</imgname>
+  </product>
+  <product>
+    
+    <ID>3</ID>
+    <title>Inspira</title>
+    <price>RM 25000</price>
+    <imgname>inspira</imgname>
+  </product>
+
+  <product>
+    <ID>4</ID>
+    <title>Persona</title>
+    <price>RM 75000</price>
+    <imgname>persona</imgname>
+  </product>
+
+  <product>
+    <ID>5</ID>
+    <title>Preve</title>
+    <price>RM 95000</price>
+    <imgname>preve</imgname>
+  </product>
+
+  <product>
+    <ID>6</ID>
+    <title>R3 Satria Neo</title>
+    <price>RM 70000</price>
+    <imgname>r3 Satria Neo</imgname>
+  </product>
+
+  <product>
+    <ID>7</ID>
+    <title>Saga FlX</title>
+    <price>RM 56700</price>
+    <imgname>saga FlX</imgname>
+  </product>
+
+  <product>
+    <ID>8</ID>
+    <title>Satria Neo</title>
+    <price>RM 45600</price>
+    <imgname>satria Neo</imgname>
+  </product>
+
+  <product>
+    <ID>9</ID>
+    <title>Sawy</title>
+    <price>RM 34560</price>
+    <imgname>sawy</imgname>
+  </product>
+
+</products>
