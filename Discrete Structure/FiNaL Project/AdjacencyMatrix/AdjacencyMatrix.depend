@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1387159960 source:d:\notes degree bcn\sem 1\discrete sturucture & application bum2233\adjacencymatrix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
