@@ -1,0 +1,17 @@
+C:\Users\aiDaH\Documents\Visual Studio 2010\Projects\AIMiNiProject_Thalassemia\bin\Debug\AITalasemiaProject.exe
+C:\Users\aiDaH\Documents\Visual Studio 2010\Projects\AIMiNiProject_Thalassemia\bin\Debug\AITalasemiaProject.pdb
+C:\Users\aiDaH\Documents\Visual Studio 2010\Projects\AIMiNiProject_Thalassemia\bin\Debug\AITalasemiaProject.xml
+C:\Users\aiDaH\Documents\Visual Studio 2010\Projects\AIMiNiProject_Thalassemia\obj\x86\Debug\AITalasemiaProject.Welcome.resources
+C:\Users\aiDaH\Documents\Visual Studio 2010\Projects\AIMiNiProject_Thalassemia\obj\x86\Debug\AITalasemiaProject.AdminSignIn.resources
+C:\Users\aiDaH\Documents\Visual Studio 2010\Projects\AIMiNiProject_Thalassemia\obj\x86\Debug\AITalasemiaProject.About.resources
+C:\Users\aiDaH\Documents\Visual Studio 2010\Projects\AIMiNiProject_Thalassemia\obj\x86\Debug\AITalasemiaProject.Instruction.resources
+C:\Users\aiDaH\Documents\Visual Studio 2010\Projects\AIMiNiProject_Thalassemia\obj\x86\Debug\AITalasemiaProject.Talasemia.resources
+C:\Users\aiDaH\Documents\Visual Studio 2010\Projects\AIMiNiProject_Thalassemia\obj\x86\Debug\AITalasemiaProject.AdminWeight.resources
+C:\Users\aiDaH\Documents\Visual Studio 2010\Projects\AIMiNiProject_Thalassemia\obj\x86\Debug\AITalasemiaProject.Resources.resources
+C:\Users\aiDaH\Documents\Visual Studio 2010\Projects\AIMiNiProject_Thalassemia\obj\x86\Debug\AIMiNiProject_Thalassemia.vbproj.GenerateResource.Cache
+C:\Users\aiDaH\Documents\Visual Studio 2010\Projects\AIMiNiProject_Thalassemia\obj\x86\Debug\AITalasemiaProject.exe
+C:\Users\aiDaH\Documents\Visual Studio 2010\Projects\AIMiNiProject_Thalassemia\obj\x86\Debug\AITalasemiaProject.xml
+C:\Users\aiDaH\Documents\Visual Studio 2010\Projects\AIMiNiProject_Thalassemia\obj\x86\Debug\AITalasemiaProject.pdb
+C:\Users\aiDaH\Desktop\Bbb\AIMiNiProject_Thalassemia\obj\x86\Debug\AITalasemiaProject.exe
+C:\Users\aiDaH\Desktop\Bbb\AIMiNiProject_Thalassemia\obj\x86\Debug\AITalasemiaProject.xml
+C:\Users\aiDaH\Desktop\Bbb\AIMiNiProject_Thalassemia\obj\x86\Debug\AITalasemiaProject.pdb

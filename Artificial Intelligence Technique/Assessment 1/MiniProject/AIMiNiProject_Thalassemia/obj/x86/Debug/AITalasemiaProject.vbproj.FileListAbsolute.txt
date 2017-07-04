@@ -1,0 +1,88 @@
+C:\Users\CQ-42\AppData\Local\Temporary Projects\AITalasemiaProject\bin\Debug\AITalasemiaProject.exe
+C:\Users\CQ-42\AppData\Local\Temporary Projects\AITalasemiaProject\bin\Debug\AITalasemiaProject.pdb
+C:\Users\CQ-42\AppData\Local\Temporary Projects\AITalasemiaProject\bin\Debug\AITalasemiaProject.xml
+C:\Users\CQ-42\AppData\Local\Temporary Projects\AITalasemiaProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CQ-42\AppData\Local\Temporary Projects\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.Form1.resources
+C:\Users\CQ-42\AppData\Local\Temporary Projects\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.Resources.resources
+C:\Users\CQ-42\AppData\Local\Temporary Projects\AITalasemiaProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CQ-42\AppData\Local\Temporary Projects\AITalasemiaProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CQ-42\AppData\Local\Temporary Projects\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.exe
+C:\Users\CQ-42\AppData\Local\Temporary Projects\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.xml
+C:\Users\CQ-42\AppData\Local\Temporary Projects\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.pdb
+C:\Users\Public\Documents\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.exe
+C:\Users\Public\Documents\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.xml
+C:\Users\Public\Documents\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.pdb
+C:\Users\Public\Documents\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\bin\Debug\AITalasemiaProject.exe
+C:\Users\Public\Documents\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\bin\Debug\AITalasemiaProject.pdb
+C:\Users\Public\Documents\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\bin\Debug\AITalasemiaProject.xml
+C:\Users\Public\Documents\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.Talasemia.resources
+C:\Users\Public\Documents\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.Resources.resources
+C:\Users\Public\Documents\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Public\Documents\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Public\Documents\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.Instruction.resources
+C:\Users\Public\Documents\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.About.resources
+F:\Education\BCG\UMP-BCG\Sem 5\Artificial Intelligences (AI)\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.exe
+F:\Education\BCG\UMP-BCG\Sem 5\Artificial Intelligences (AI)\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.xml
+F:\Education\BCG\UMP-BCG\Sem 5\Artificial Intelligences (AI)\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.pdb
+G:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.exe
+G:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.xml
+G:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.pdb
+G:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\bin\Debug\AITalasemiaProject.exe
+G:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\bin\Debug\AITalasemiaProject.pdb
+G:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\bin\Debug\AITalasemiaProject.xml
+G:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.About.resources
+G:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.Instruction.resources
+G:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.Talasemia.resources
+G:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.Resources.resources
+G:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.Welcome.resources
+G:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.AdminWeight.resources
+E:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.exe
+E:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.xml
+E:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.pdb
+G:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.AdminSignIn.resources
+F:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.exe
+F:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.xml
+F:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.pdb
+F:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\bin\Debug\AITalasemiaProject.exe
+F:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\bin\Debug\AITalasemiaProject.pdb
+F:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\bin\Debug\AITalasemiaProject.xml
+F:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.Welcome.resources
+F:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.AdminSignIn.resources
+F:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.About.resources
+F:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.Instruction.resources
+F:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.Talasemia.resources
+F:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.AdminWeight.resources
+F:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.Resources.resources
+F:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Note\note bella\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.exe
+D:\Note\note bella\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.xml
+D:\Note\note bella\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.pdb
+D:\Note\note bella\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\bin\Debug\AITalasemiaProject.exe
+D:\Note\note bella\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\bin\Debug\AITalasemiaProject.pdb
+D:\Note\note bella\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\bin\Debug\AITalasemiaProject.xml
+D:\Note\note bella\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Note\note bella\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.Welcome.resources
+D:\Note\note bella\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.AdminSignIn.resources
+D:\Note\note bella\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.About.resources
+D:\Note\note bella\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.Instruction.resources
+D:\Note\note bella\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.Talasemia.resources
+D:\Note\note bella\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.AdminWeight.resources
+D:\Note\note bella\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.Resources.resources
+D:\Note\note bella\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Note\note bella\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\AI (kak sue)\note bella(AI)\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.exe
+G:\AI (kak sue)\note bella(AI)\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.xml
+G:\AI (kak sue)\note bella(AI)\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.pdb
+G:\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.vbproj.GenerateResource.Cache
+C:\Users\aiDaH\Desktop\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.exe
+C:\Users\aiDaH\Desktop\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.xml
+C:\Users\aiDaH\Desktop\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.pdb
+C:\Users\aiDaH\Desktop\Bbb\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.exe
+C:\Users\aiDaH\Desktop\Bbb\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.xml
+C:\Users\aiDaH\Desktop\Bbb\AI-TalasemiaProject\AITalasemiaProject\AITalasemiaProject\obj\x86\Debug\AITalasemiaProject.pdb
+C:\Users\aiDaH\Documents\Visual Studio 2010\Projects\AIMiNiProject_Thalassemia\obj\x86\Debug\AITalasemiaProject.exe
+C:\Users\aiDaH\Documents\Visual Studio 2010\Projects\AIMiNiProject_Thalassemia\obj\x86\Debug\AITalasemiaProject.xml
+C:\Users\aiDaH\Documents\Visual Studio 2010\Projects\AIMiNiProject_Thalassemia\obj\x86\Debug\AITalasemiaProject.pdb
