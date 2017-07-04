@@ -1,0 +1,65 @@
+﻿─ section labsheet22cb15003 parents standard_toolkit
+└─ [ NATIVE,FOREIGN] └
+
+
+This specification describes ...
+┌ Dictionary
+words1: ℙ NATIVE 
+words2 : ℙ FOREIGN
+first: FOREIGN → NATIVE
+second: NATIVE → FOREIGN
+|
+words1 = dom second
+words2 = dom first
+└
+
+
+┌ AddtoVocabulary
+ΔDictionary
+nwords?: NATIVE
+fwords?: FOREIGN
+|
+nwords? ∉ words1
+fwords? ∉ words2
+words1′ = words1 ∪ {nwords?}
+words2′ = words2 ∪ {fwords?}
+└
+
+┌ DeletetoVocabulary
+ΔDictionary
+nwords?: NATIVE
+fwords?: FOREIGN
+|
+nwords? ∉ words1
+fwords? ∉ words2
+words1′ = words1 ∪ {nwords?}
+words2′ = words2 ∪ {fwords?}
+└
+
+─
+REPORT ::= yes | no
+└
+
+┌ RequestNativetoForeign
+ΔDictionary
+nwords? : NATIVE
+result! : REPORT
+|
+nwords? ∈ words1
+words1′ = words1 ⊆ {nwords?}
+result! = yes
+└
+
+┌ RequestForeigntoNative
+ΔDictionary
+fwords?: FOREIGN
+result! : REPORT
+|
+fwords? ∈  words2
+words2′ = words2 ⊆ {fwords?}
+result! = yes
+└
+
+
+
+

@@ -1,0 +1,41 @@
+﻿─ section labsheet21cb15003 parents standard_toolkit
+└
+─ [ STUDENT] └
+
+This specification describes ...
+┌ Register
+enrolled : ℙ STUDENT
+completed : ℙ STUDENT
+|
+enrolled ⊆ completed
+└
+
+┌Enroll
+ΔRegister
+new? : STUDENT
+|
+enrolled′ = enrolled ∪ {new?}
+completed′ = completed
+└
+
+┌ Record
+ΔRegister
+student? : STUDENT
+|
+enrolled′ = enrolled
+completed′ = completed ⊆ {student?}
+└
+
+─
+REPORT ::= yes | no
+└
+
+┌ Enquire
+ΔRegister
+student? : STUDENT
+result! : REPORT
+|
+student? ∈ enrolled
+completed′ = completed ⊆ {student?}
+result! = yes
+└
