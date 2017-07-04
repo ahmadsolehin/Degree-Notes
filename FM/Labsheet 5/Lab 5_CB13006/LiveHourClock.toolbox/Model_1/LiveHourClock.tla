@@ -1,0 +1,49 @@
+--------------------------- MODULE LiveHourClock ---------------------------
+
+EXTENDS HourClock
+
+
+LSpec==HC/\WF_hr(HCnxt)
+
+AlwaysTick==[]<><<HCnxt>>_hr
+
+AllTimes==\A n\in (1..10):[]<>(hr=n)
+
+\*New == (hr = 1) => <>(hr = 2)
+
+\*temporal == (hr = 1) =>  <> []  (hr = 2)
+
+temporal == (hr = 1) =>  [] <> (hr = 2)
+
+ exist == hr \in (1 .. 12)    
+
+TypeInvariance==[]HCini
+
+-----------------------------------------------------------------------------
+THEOREM LSpec => AlwaysTick/\AllTimes/\TypeInvariance
+
+
+=============================================================================
+\* Modification History
+\* Last modified Wed Nov 12 10:08:57 SGT 2014 by FSK 10B
+\* Created Wed Nov 12 08:24:58 SGT 2014 by FSK 10B
+
+\*ANSWER:
+
+\*Q5:   The distinct state for live hour clock going to 10 step are 600 because /\ it show combination between min 
+\*      and hour so that means the modul will show the value min * hr, 10*60=600
+
+\*Q7:   This statement was error
+\*      Property New is violated by the initial state:
+\*      /\ min = 1
+\*      /\ hr = 1
+\*      this error occur because when we =>, its mean we need 2 hours immediately
+\*      so we add tempral logical '<>' in this statement.
+
+\*Q8:   This statement was error but we need to add temporal logical '<>' because it will True at the sometime.
+\*Q8.2: This infinetely often statement was error.
+\*Q8.3: This eventually always statement was true.
+
+\*Q9:   exist == hr \in (1 .. 12)   
+\*Q10:   new == [] (hr = 1) => (hr = 2)_hr 
+\*the temporal formula is equal to 1
